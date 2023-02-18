@@ -1,2 +1,6 @@
 # Bibliotecas-Python
-Bibliotecas do python
+
+## Bibliotecas do python
+
+- Pytube (Para baixar videos do Youtube)
+- PyCode 
