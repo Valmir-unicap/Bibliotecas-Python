@@ -1,6 +1,6 @@
 # Bibliotecas-Python
 
-## Bibliotecas do python
+## Bibliotecas vista
 
 - pytube (Para baixar videos do Youtube).
 - qrcode (Transforma links de site, em código de qrcode). 
