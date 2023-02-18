@@ -2,5 +2,5 @@
 
 ## Bibliotecas do python
 
-- Pytube (Para baixar videos do Youtube)
-- PyCode 
+- pytube (Para baixar videos do Youtube).
+- qrcode (Transforma links de site, em código de qrcode). 
